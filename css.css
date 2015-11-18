@@ -1,0 +1,39 @@
+.jumbotron{
+	background-color: #0091BE;
+}
+.jumbotron img{
+	padding-top: 15px;
+}
+.jumbotron h1{
+	display: inline-block;
+	color: white;
+	padding-top: 20px;
+}
+.squelette{
+	text-align: center;
+}
+.col-md-10{
+
+}
+.explications{
+	text-align: center;
+	padding-left: 8%;
+	padding-right: 8%;
+	padding-top: 1.8%;
+}
+footer{
+	text-align: center;
+	width: 100%;
+	background-color: #f2f2f2;
+}
+span{
+	line-height: 31px;
+}
+span a{
+	color: #8f8f8f;
+	text-decoration: none;
+	text-align: right;
+}
+span a:hover{
+	color: #8f8f8f;
+}
